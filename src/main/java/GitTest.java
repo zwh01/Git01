@@ -8,5 +8,7 @@ public class GitTest {
 
         System.out.println("Hello,sssaaaaaaassssdd");
         System.out.println("Hello,pushtxt,sssaaaaaaassssdd");
+         System.out.println("pull");
     }
+   
 }
